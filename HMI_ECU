@@ -1,0 +1,2 @@
+# Door-locker-security-system-final-project
+This smart door control system is designed with two microcontrollers, one acting as the  Human-Machine Interface (HMI_ECU) and the other as the Control Unit (Control_ECU). Users  interact with the system using an LCD and keypad to enter passwords, which are verified and  stored using external EEPROM
